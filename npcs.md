@@ -13,5 +13,5 @@ Officer Percy | he/him | A young officer with a good heart. Strongest wish is to
 Sherriff James | he/him | A tough, no nonsense sherriff. An honest man with no tolerance for idiots.
 Jim | he/him | Owner of the hunting store in town.
 Moss Manaford | they/them | Mothman. Lives in the forest with their husband. Works to destroy the Abnormalities.
-Charles AKA Charlie | he/him | Bigfoot. Lives in the forest with his spouse. Works to destroy the Abnomaalities.
+Charles AKA Charlie | he/him | Bigfoot. Lives in the forest with his spouse. Works to destroy the Abnormalities.
 
