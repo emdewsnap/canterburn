@@ -8,7 +8,7 @@ Ranger Sam | she/her | Ranger at the Canterburn Forest. Works with Ranger Dean.
 Cody Martin | he/him | Child bit by a srange monster in the forest. Loves reading.
 Rachel | she/her | Works at Marshal's bar/microbrewery. Handles paprwork.
 Jeffery | he/they | Works at Marshal's bar/microbrewery. Helps with the brewing process.
-Nikolai | he/him | Works at Marshal's bar/microbrewery. Is a janitor.
+Nikolai | he/they | Works at Marshal's bar/microbrewery. Is a janitor.
 Officer Percy | he/him | A young officer with a good heart. Strongest wish is to keep the town's occupants safe.
 Sherriff James | he/him | A tough, no nonsense sherriff. An honest man with no tolerance for idiots.
 Jim | he/him | Owner of the hunting store in town.
