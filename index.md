@@ -4,8 +4,8 @@
 
 ## Please select a link to continue
 
-[NPCs](npcs.md)
-[Abnormalities](abnormalities.md)
-[Map](map.md)
+[NPCs](npcs.md) <br>
+[Abnormalities](abnormalities.md) <br>
+[Map](map.md) <br>
 
 </center>
