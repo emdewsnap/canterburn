@@ -1,4 +1,4 @@
-<p align="center">
+
   
 # Welcome to the Digital Archive, Hunters
 
@@ -7,5 +7,3 @@
 [NPCs](npcs.md) <br>
 [Abnormalities](abnormalities.md) <br>
 [Map](map.md) <br>
-
-</p>
