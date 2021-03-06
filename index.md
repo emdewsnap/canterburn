@@ -7,3 +7,4 @@
 [NPCs](npcs.md) <br>
 [Abnormalities](abnormalities.md) <br>
 [Map](map.md) <br>
+[Art](art.md) <br>
