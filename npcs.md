@@ -16,7 +16,7 @@ Moss Manaford | they/them | Mothman. Lives in the forest with their husband. Wor
 Charles AKA Charlie | he/him | Bigfoot. Lives in the forest with his spouse. Works to destroy the Abnormalities.
 Kieran Thomas | he/him | Captain of the high school swim team. Dead.
 Lena | she/her | Friend of Kieran.
-Jade | she/her | Friend of Kieran. Chris' GF
+Jade | she/her | Friend of Kieran. Chris' GF. The Spooky, has joined the Hunters.
 Chris | he/him | Friend of Kieran. Swim team member. Jade's BF.
 Aaron | he/him | Friend of Kieran. Swim team member.
 Katie | she/her | High schooler, seemed to be posessed.
