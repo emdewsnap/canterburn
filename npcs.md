@@ -20,4 +20,4 @@ Jade | she/her | Friend of Kieran. Chris' GF. The Spooky, has joined the Hunters
 Chris | he/him | Friend of Kieran. Swim team member. Jade's BF.
 Aaron | he/him | Friend of Kieran. Swim team member.
 Katie | she/her | High schooler, seemed to be posessed.
-The mayor | he/him | Maria's father
+The Mayor | he/him | Maria's father
