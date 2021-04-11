@@ -4,7 +4,7 @@ Name | Pronouns | Description
 ------------ | ------------- | -------------
 Greg | he/him | Works as a janitor at Maria's library. Also part of her network, maintains her secret cryptid archive.
 Ranger Dean | he/him | Ranger at the Canterburn Forest. Works with Ranger Sam.
-Ranger Sam | she/her | Ranger at the Canterburn Forest. Works with Ranger Dean.
+Ranger Sam | she/her | Ranger at the Canterburn Forest. Works with Ranger Dean. Dating Maria.
 Cody Martin | he/him | Child bit by a srange monster in the forest. Loves reading.
 Rachel | she/her | Works at Marshal's bar/microbrewery. Handles paprwork.
 Jeffery | he/they | Works at Marshal's bar/microbrewery. Helps with the brewing process.
@@ -21,3 +21,5 @@ Chris | he/him | Friend of Kieran. Swim team member. Jade's BF.
 Aaron | he/him | Friend of Kieran. Swim team member.
 Katie | she/her | High schooler, seemed to be posessed.
 The Mayor | he/him | Maria's father
+Kai | he/him | Beachside bartender. Dating Marshal.
+Vanessa | she/her | The Loch Ness Monster and Moss' self proclaimed cousin. She has psychic powers.
