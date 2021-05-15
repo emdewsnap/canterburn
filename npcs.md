@@ -23,3 +23,4 @@ Katie | she/her | High schooler, seemed to be posessed.
 The Mayor | he/him | Maria's father
 Kai | he/him | Beachside bartender. Dating Marshal.
 Vanessa | she/her | The Loch Ness Monster and Moss' self proclaimed cousin. She has psychic powers.
+Agent Leese | he/him | An FBI agent who investigates the supernatural
